@@ -1,11 +1,16 @@
 _repo: The-Magic-and-Science-of-Jewels-and-Stones_57980
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 57980-h/images/cover.jpg
 creator:
   author:
     agent_name: Kozminsky, Isidore
     gutenberg_agent_id: '49733'
     url: http://www.gutenberg.org/2009/agents/49733
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57980#The-Magic-and-Science-of-Jewels-and-Stones
 gutenberg_issued: '2018-10-04'
 gutenberg_type: Text
 identifiers:
